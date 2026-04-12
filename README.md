@@ -9,7 +9,7 @@
 梦想成为编程高手！✨
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35283)](https://codetime.dev)
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35283%26language%3Dgo)](https://codetime.dev)
+
 
 
 ![activity](https://ghchart.rshah.org/yuanji6666)
