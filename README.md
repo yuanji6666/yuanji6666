@@ -3,7 +3,7 @@
 
 你好，我叫袁霁 👋🏻 
 
-目前在华中科技大学计算机科学与技术学院读大二 📖
+I'm a sophomore majoring in CS at HUST 📖
 
 正在探索Agent开发相关技术栈 Python/Go 🧑🏻‍💻
 
