@@ -1,7 +1,7 @@
 # About
 > 欢迎来我的[个人博客](https://www.yuanji666.fun)看看，会随缘更新一些技术博客和随笔
 
-你好，我叫袁霁 👋🏻 
+Hi, my name is Yuanji 👋🏻 
 
 I'm a sophomore majoring in CS at HUST 📖
 
