@@ -11,11 +11,7 @@ I'm a sophomore majoring in CS at HUST 📖
 
 梦想成为编程高手/开源~~大佬~~贡献者/做独立游戏 ✨ 
 
-
-
 ![](https://skillicons.dev/icons?i=python,go,c,cpp,typescript,docker)
-
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35283">
 
 # Hobbies
 - ~~逃课~~自学 🙇🏻
